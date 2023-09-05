@@ -1,4 +1,4 @@
 # apna-collage
 apnacollage youtube video.
 <br>
-author=akshay kumar taak
+author=akshay kumar taak verma
